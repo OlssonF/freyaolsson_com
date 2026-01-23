@@ -5,6 +5,7 @@ editor: visual
 
 ### Journal articles
 
+Carey, C. C., **Olsson, F**., Breef‐Pilz, A., & Thomas, R. Q., 2026. High‐frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. Ecology, 107(1), e70292. <https://doi.org/10.1002/ecy.70292>
 
 **Olsson, F.**, Carey, C. C., Boettiger, C., Harrison, G., Ladwig, R., Lapeyrolerie, M. F., et al., 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. Ecol. Appl., 35(1), e70004. <https://doi.org/10.1002/eap.70004>
 

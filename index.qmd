@@ -6,9 +6,6 @@ about:
   image-shape: round
   image-width: 10em
   links:
-    - text: Bluesky
-      href: https://bsky.app/profile/freyaolsson.bsky.social
-      icon: "bluesky"
     - text: GitHub
       href: https://github.com/OlssonF
       icon: "github"
@@ -20,7 +17,7 @@ about:
       icon: "newspaper"
 ---
 
-I am currently a postdoctoral researcher in the Department of Environmental Science at Radboud University, Netherlands working with Dr Aafke Schipper (RU) and Dr Sven Teurlincx (NIOO-KNAW). As part of the [Water4All PLURALAKES project](https://pluralakes.eu), we are working to see how stakeholder visions can be incorporated into desired future scenarios for lakes and determine practicable and sustainable strategies to achieve these future scenarios.
+I am currently a postdoctoral researcher in the Department of Environmental Science at Radboud University, Netherlands working with Dr. Aafke Schipper (RU) and Dr. Sven Teurlincx (NIOO-KNAW). As part of the [Water4All PLURALAKES project](https://pluralakes.eu), we are working to see how stakeholder visions can be incorporated into desired future scenarios for lakes and determine practicable and sustainable strategies to achieve these future scenarios.
 
 Previously, I was a postdoctoral researcher at the [Virginia Tech Center for Ecosystem Forecasting](https://ecoforecast.centers.vt.edu/), USA, working with Dr Quinn Thomas and Dr Cayelan Carey. In this role, I leveraged forecasting and modelling frameworks to develop near-term forecasts of freshwater habitats. I worked with range of process-based and empirical models to forecast conditions in freshwater sites across in the US and Australia and championed the aquatics [EFI-NEON Forecast Challenge](https://projects.ecoforecast.org/neon4cast-ci/) that uses these data.
 

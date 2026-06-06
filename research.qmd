@@ -3,13 +3,13 @@ title: "Research Interests"
 editor: visual
 ---
 
-My research interests are broadly in understanding the interactions between abiotic factors and ecosystem functioning, especially of lakes and reservoirs. I am interested in how we can use process-based modelling and large-scale field data to better understand the functioning of these systems and better improve their management now and in the future.
+My research examines how climate change, hydrological processes, and water management interact to shape freshwater ecosystem function. Through hydrodynamic and ecological modelling and forecasting I seek to understand how environmental change influences water quality, ecosystem resilience, and the provisioning of freshwater ecosystem services, with the goal to improve their management now and in the future.
 
 Some of my main interests are:
 
+-   lake management and restoration under climate and global change
+-   integrating data and models to improve mechanistic understanding
 -   interaction of lake physics on chemistry and biology
--   impact of inflows on lakes
--   integrating data and models to improve understanding
 -   near-term lake forecasting
 
 ![](images/fieldsites.png){fig-align="center" width="674"}
